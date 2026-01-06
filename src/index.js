@@ -14,7 +14,7 @@ const COLORS = {
   5: "#dcdcaa", // Variable yellow
   6: "#569cd6", // Keyword blue
   7: "#b5cea8", // Number green
-  8: "#000000", // Void (black)
+  8: "#000011", // Void (black)
 };
 
 // Tetromino shapes (simplified for easier pattern matching)
